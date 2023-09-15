@@ -16,7 +16,5 @@ I'm _Dhanyapriya Somasundaram_:star_struck: positive :crossed_fingers: self-conf
 - 😄 Pronouns: She/Hers
 - ⚡ Fun fact: I love milkshakes :milk_glass::bubble_tea::tropical_drink:
 - 👯 I’m looking to collaborate with people
-- 🤔 Liking reg DM: Learning new things daily.
-- :frowning_face: Disliking reg DM: Projector is located towards right end, it could be centered :monocle_face:
 - :zany_face: Make sure to follow me :stuck_out_tongue_winking_eye:
   ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
