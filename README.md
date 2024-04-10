@@ -9,8 +9,7 @@ Welcome to my GitHub! As a passionate Data Science enthusiast and a Master of Sc
 
 ### 💼 Professional Experience
 
-#### Graduate Research Assistant, University of Arizona, Tucson, AZ
-**Jan 2024 - Present**
+#### Graduate student, University of Arizona, Tucson, AZ
 - **Curricular Analytics and AI Solutions**: Spearheaded the use of Julia for data analysis, significantly enhancing the educational pathways for 50,000 students through in-depth curricular analytics. This work contributed to a marked increase in first-year retention rates from 68% to 78.3% at CECS, Washington State University, and boosted 6-year graduation rates from 15% to 52%.
 - **Google Earth Engine Project Management**: Managed a Google Earth Engine account, facilitating efficient data handling and version control across 1,680 datasets. Developed standardized templates and implemented the STAC API, showcasing my technical prowess in managing large-scale data projects.
 
