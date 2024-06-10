@@ -4,7 +4,7 @@ Welcome to my GitHub! As a passionate Data Science enthusiast and a Master of Sc
 
 ## About Me
 ### 📚 Education
-- 🎓 **Master of Science in Data Science**, University of Arizona (2023-2024) - Department Topper with a GPA of 4.0/4.0.
+- 🎓 **Master of Science in Data Science**, University of Arizona (2023-2025) - Department Topper with a GPA of 4.0/4.0.
 - 🎓 **Bachelor of Aeronautical Engineering**, Anna University (2016) - University Gold Medalist among 1154 candidates.
 
 ### 💼 Professional Experience
